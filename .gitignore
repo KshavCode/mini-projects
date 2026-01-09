@@ -1,0 +1,41 @@
+StackOverflow-Challenge/questions.txt
+Calculator-App/venv/
+Dictionary/venv/
+
+# dependencies
+Password-Generator/ReactNative/node_modules/
+
+# Expo
+Password-Generator/ReactNative/.expo/
+Password-Generator/ReactNative/dist/
+Password-Generator/ReactNative/web-build/
+Password-Generator/ReactNative/expo-env.d.ts
+
+# Native
+Password-Generator/ReactNative/.kotlin/
+Password-Generator/ReactNative/*.orig.*
+Password-Generator/ReactNative/*.jks
+Password-Generator/ReactNative/*.p8
+Password-Generator/ReactNative/*.p12
+Password-Generator/ReactNative/*.key
+Password-Generator/ReactNative/*.mobileprovision
+
+# Metro
+Password-Generator/ReactNative/.metro-health-check*
+
+# debug
+Password-Generator/ReactNative/npm-debug.*
+Password-Generator/ReactNative/yarn-debug.*
+Password-Generator/ReactNative/yarn-error.*
+
+# macOS
+Password-Generator/ReactNative/.DS_Store
+Password-Generator/ReactNative/*.pem
+
+# local env files
+Password-Generator/ReactNative/.env*.local
+
+# typescript
+Password-Generator/ReactNative/*.tsbuildinfo
+
+Password-Generator/ReactNative/app-example
