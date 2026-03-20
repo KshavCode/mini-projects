@@ -7,4 +7,4 @@ jobs:
       - name: Import Code
         uses: actions/checkout@v4
       - name: Run Script
-        uses: python script_test.py
+        run: python script_test.py
