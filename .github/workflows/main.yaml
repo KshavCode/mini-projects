@@ -8,3 +8,5 @@ jobs:
         uses: actions/checkout@v4
       - name: Run Script
         run: python script_test.py
+      - name: Current Directory
+        run: pwd
